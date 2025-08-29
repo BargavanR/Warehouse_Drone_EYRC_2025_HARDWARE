@@ -1,0 +1,32 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/bargavan/pico_ws/install/waypoint_navigation/local/lib/python3.10/dist-packages",
+        "/home/bargavan/pico_ws/install/swift_msgs/local/lib/python3.10/dist-packages",
+        "/home/bargavan/pico_ws/install/pid_msg/local/lib/python3.10/dist-packages",
+        "/home/bargavan/pico_ws/install/mav_planning_msgs/local/lib/python3.10/dist-packages",
+        "/home/bargavan/pico_ws/install/mav_msgs/local/lib/python3.10/dist-packages",
+        "/home/bargavan/pico_ws2/install/crsf_ros2/lib/python3.10/site-packages",
+        "/home/bargavan/pico_ws2/install/rc_msgs/local/lib/python3.10/dist-packages",
+        "/home/bargavan/pico_ws2/install/pid_msg/local/lib/python3.10/dist-packages",
+        "/home/bargavan/pico_ws2/install/crsf_msgs/local/lib/python3.10/dist-packages",
+        "/home/bargavan/ros2_ws_pract/build/my_rc",
+        "/home/bargavan/ros2_ws_pract/install/my_rc/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/bargavan/pico_ws/install/waypoint_navigation/local/lib/python3.10/dist-packages",
+        "/home/bargavan/pico_ws/install/swift_msgs/local/lib/python3.10/dist-packages",
+        "/home/bargavan/pico_ws/install/pid_msg/local/lib/python3.10/dist-packages",
+        "/home/bargavan/pico_ws/install/mav_planning_msgs/local/lib/python3.10/dist-packages",
+        "/home/bargavan/pico_ws/install/mav_msgs/local/lib/python3.10/dist-packages",
+        "/home/bargavan/pico_ws2/install/crsf_ros2/lib/python3.10/site-packages",
+        "/home/bargavan/pico_ws2/install/rc_msgs/local/lib/python3.10/dist-packages",
+        "/home/bargavan/pico_ws2/install/pid_msg/local/lib/python3.10/dist-packages",
+        "/home/bargavan/pico_ws2/install/crsf_msgs/local/lib/python3.10/dist-packages",
+        "/home/bargavan/ros2_ws_pract/build/my_rc",
+        "/home/bargavan/ros2_ws_pract/install/my_rc/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/bargavan/pico_ws/install/whycon/include/**",
+        "/home/bargavan/pico_ws/install/waypoint_navigation/include/**",
+        "/home/bargavan/pico_ws/install/swift_msgs/include/**",
+        "/home/bargavan/pico_ws/install/rotors_control/include/**",
+        "/home/bargavan/pico_ws/install/pid_msg/include/**",
+        "/home/bargavan/pico_ws/install/mav_system_msgs/include/**",
+        "/home/bargavan/pico_ws/install/mav_state_machine_msgs/include/**",
+        "/home/bargavan/pico_ws/install/mav_planning_msgs/include/**",
+        "/home/bargavan/pico_ws/install/mav_msgs/include/**",
+        "/home/bargavan/pico_ws2/install/whycon/include/**",
+        "/home/bargavan/pico_ws2/install/rc_msgs/include/**",
+        "/home/bargavan/pico_ws2/install/pid_msg/include/**",
+        "/home/bargavan/pico_ws2/install/crsf_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/bargavan/pico_ws2/src/waypoint_navigation/include/**",
+        "/home/bargavan/pico_ws2/src/whycon/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

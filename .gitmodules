@@ -1,0 +1,9 @@
+[submodule "crsf-ros2"]
+	path = crsf-ros2
+	url = https://github.com/arunser/crsf-ros2.git
+[submodule "whycon"]
+	path = whycon
+	url = https://github.com/arunser/whycon.git
+[submodule "pid_tune"]
+	path = pid_tune
+	url = https://github.com/erts-RnD/pid_tune.git
